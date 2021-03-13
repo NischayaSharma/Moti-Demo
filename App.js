@@ -10,7 +10,6 @@ export default function App() {
     <Pressable 
       style={styles.container}
       onPress={() => {
-        console.log(pressed);
         setPressed(!pressed);
       }}>
       <MotiView

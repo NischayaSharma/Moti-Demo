@@ -1045,17 +1045,17 @@
     "@types/yargs" "^15.0.0"
     chalk "^4.0.0"
 
-"@motify/components@^0.6.0":
-  version "0.6.0"
-  resolved "https://registry.yarnpkg.com/@motify/components/-/components-0.6.0.tgz#78ffc64b953f390211f582a6830ff5229f0805e8"
-  integrity sha512-2L1fCTp5LFFCXTjnuSUss4xhxOW7oWKL/h7DcYw0jaH08wsSTO7eoWhFAHpGPEIGNSj+HlJOza7U4hjtoR+ZEg==
+"@motify/components@^0.6.2":
+  version "0.6.2"
+  resolved "https://registry.yarnpkg.com/@motify/components/-/components-0.6.2.tgz#5226525b1fbf587dc7dabe2b4fe05e639bb6bb49"
+  integrity sha512-8YkTxiBm/N2qLNMnAwRxPXM6yrwr56Kl3/Gu+3n70vsKmAvMROcVfIxSZiVYXgTnszHCzK40E/Ka7ihMxF6SVQ==
   dependencies:
-    "@motify/core" "^0.6.0"
+    "@motify/core" "^0.6.2"
 
-"@motify/core@^0.6.0":
-  version "0.6.0"
-  resolved "https://registry.yarnpkg.com/@motify/core/-/core-0.6.0.tgz#44c350e5e540cf69913e3a8597cf91d88b0c7c26"
-  integrity sha512-DkSC17gkvJw7krTJg7O6bk1+dUQwjkkx5/3AAsOpCJi2Cmt0XCBXG7m75GQxd0qmNFgvESPS4+OchiKsMpJRkA==
+"@motify/core@^0.6.2":
+  version "0.6.2"
+  resolved "https://registry.yarnpkg.com/@motify/core/-/core-0.6.2.tgz#81206a5bc241c14fadcfbac66853511a8f8777a0"
+  integrity sha512-WqwW6CDViE8SVBwdxfGStJHZL6lQL4aj6Ml9nvACQfjnW7sTJQpbGg0xB271XdHC6ELBLDyOEtOiPQlRTwyjIg==
   dependencies:
     framer-motion "^3.9.1"
 
@@ -5091,13 +5091,13 @@ mockdate@^3.0.2:
   resolved "https://registry.yarnpkg.com/mockdate/-/mockdate-3.0.2.tgz#a5a7bb5820da617747af424d7a4dcb22c6c03d79"
   integrity sha512-ldfYSUW1ocqSHGTK6rrODUiqAFPGAg0xaHqYJ5tvj1hQyFsjuHpuWgWFTZWwDVlzougN/s2/mhDr8r5nY5xDpA==
 
-moti@^0.6.0:
-  version "0.6.0"
-  resolved "https://registry.yarnpkg.com/moti/-/moti-0.6.0.tgz#acee09ddcf158def345194eca4ce6d6951eb53fd"
-  integrity sha512-cIayp8iaePRS3XlllcIDqgxcGKGb26Ori15O6scmCKBO/wQkls2rsjHhoKFkB4tAoDiOVNAm1iGJ7e3hJep2Nw==
+moti@^0.6.2:
+  version "0.6.2"
+  resolved "https://registry.yarnpkg.com/moti/-/moti-0.6.2.tgz#614052a26b5662cb3e0d96447280e11368d2a79b"
+  integrity sha512-7EgQPTKAB4JJC1tOONwmzjshw/YoKEOFdmcHBabUfcQaf5FlNmSBqTjN5iu9ktj221WtelX+TxUiZUXDxibhmg==
   dependencies:
-    "@motify/components" "^0.6.0"
-    "@motify/core" "^0.6.0"
+    "@motify/components" "^0.6.2"
+    "@motify/core" "^0.6.2"
 
 ms@2.0.0:
   version "2.0.0"
